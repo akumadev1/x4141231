@@ -1,6 +1,6 @@
 'use client'
 
-import Image from 'next/image'
+
 import { Button } from "@/components/ui/button"
 import { useState, useRef } from 'react'
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
